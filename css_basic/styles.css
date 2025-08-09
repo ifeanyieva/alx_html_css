@@ -18,3 +18,10 @@ article{
     flex: 2;
     overflow-y: auto;
 }
+
+@media (max-width:600px){
+
+    .works on smartphone {
+        display: block;
+    }
+}
