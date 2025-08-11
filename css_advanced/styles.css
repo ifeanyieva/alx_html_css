@@ -1,5 +1,29 @@
+
+.first_division {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1000px;
+}
+
 nav {
     display: flex;
     justify-content: space-around;
-
+    align-items: center;
+    padding: 5px 40px 5px 40px
 }
+
+ul  {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul a {
+    color:white;
+    text-decoration: none;
+}
+
+
